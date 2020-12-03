@@ -18,4 +18,4 @@ library("devtools")
 After that, to download **BListener**, you can type in the **R** prompt:
 
 ```R
-install_github("mleman/BListener")
+install_github("IPEM/BListener")
