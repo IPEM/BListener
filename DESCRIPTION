@@ -1,0 +1,15 @@
+Package: BListener
+Version: 0.1.0
+Title: Co-regulation analysis of timing in music
+Author: Marc Leman <marc.leman@ugent.be> [aut,cre], 
+ Marc Vidal <marc.vidalbadia@ugent.be> [ctb]
+Maintainer: Marc Vidal <marc.vidalbadia@ugent.be>
+Description: Performs co-regulated timing analysis for univariate and multivariate inter-onset-interval time series.   
+License: GPL (>= 2)
+Depends: R (>= 3.5)
+Imports: stats
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Repository: CRAN
+RoxygenNote: 7.1.1
